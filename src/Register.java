@@ -2,7 +2,7 @@ import java.io.*;
 import java.sql.*;  
 import javax.servlet.ServletException;  
 import javax.servlet.http.*;  
-  
+  ///second commit
 public class Register extends HttpServlet {  
 public void doPost(HttpServletRequest request, HttpServletResponse response)  
             throws ServletException, IOException {  
